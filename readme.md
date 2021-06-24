@@ -1,9 +1,8 @@
 
 ![BannerGIF](https://stemedya.com/mt.gif)
-## 🐱‍🏍Şahin ERSEVER
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi, there !
-
+ 
 <a href="https://youtube.com/c/sahinersever/"><img src="https://img.shields.io/youtube/channel/subscribers/UCcjhVeyuTyUDBZEBR_-D3ww?label=Subscribe%20on%20Youtube&style=social"/></a>
 [![GitHub sahinersever93](https://img.shields.io/github/followers/sahinersever93?label=follow&style=social)](https://github.com/sahinersever93)&nbsp;
 
