@@ -1,5 +1,5 @@
 
-![BannerGIF](https://stemedya.com/mt.gif)
+![BannerGIF](https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611d1a3490fad8f26e33ce5525e1800a27675caeb53&rid=giphy.gif&ct=g)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi, there !
  
