@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 ---
-💡 &nbsp; I'm a husband, full-stack web developer, and instructer! \
+💡 &nbsp; I'm a husband, full-stack web developer, and instructer!!! \
 🎓 &nbsp;I'm coding since 2010.\
 🌱 &nbsp;I'm on track for learning more and teaching.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
