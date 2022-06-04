@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 ---
-💡 &nbsp; I'm a husband, full-stack web developer, and instructer!!! \
+💡 &nbsp; I'm a husband and father, full-stack web developer, and instructer!!! \
 🎓 &nbsp;I'm coding since 2010.\
 🌱 &nbsp;I'm on track for learning more and teaching.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
@@ -18,6 +18,7 @@
 ---
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=FFA518)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=A8B9CC)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=expressjs&logoColor=00599C)&nbsp;
