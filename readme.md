@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <p align="center">
     <a href="https://youtube.com/c/sahinersever/"><img src="https://img.shields.io/youtube/channel/subscribers/UCcjhVeyuTyUDBZEBR_-D3ww?label=Subscribe%20on%20Youtube&style=social"/></a>&nbsp;
-    <a href="https://github.com/sahinersever93"><img src="https://img.shields.io/github/followers/sahinersever93?label=follow&style=social"/></a>&nbsp;
+    <a href="https://github.com/erseversahin"><img src="https://img.shields.io/github/followers/erseversahin?label=follow&style=social"/></a>&nbsp;
     <a href="https://www.linkedin.com/in/sahinersever/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=social&logo=linkedin&logoColor=white"/></a>
   </p>
 </div>
@@ -75,8 +75,8 @@ Ben deneyimli bir **Yazılım Mimarı**, **Teknoloji Lideri** ve **Seri Girişim
 ### 📊 &nbsp;GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahinersever93&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinersever93&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=erseversahin&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erseversahin&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" />
 </p>
 
 ---
